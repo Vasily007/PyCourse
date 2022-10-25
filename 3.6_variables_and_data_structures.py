@@ -1,6 +1,6 @@
 #Welcome to Python
-name = 'Vladimir'
-surname = 'Ryabcev'
+name = 'Vasily'
+surname = 'Rybakov'
 
 print(f"Hello {name} {surname}! You just delved into Python. Great start!")
 
